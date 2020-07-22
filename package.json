@@ -1,0 +1,28 @@
+{
+  "name": "rnez-forms",
+  "version": "1.0.0",
+  "description": "A simple library to create forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react",
+    "mobile",
+    "forms",
+    "input"
+  ],
+  "author": "AtmaRangga",
+  "license": "MIT",
+  "dependencies": {
+    "native-base": "^2.13.12",
+    "react-native-svg": "^12.1.0",
+    "react-native-vector-icons": "^7.0.0",
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.61.0"
+  }
+}
